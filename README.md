@@ -13,3 +13,7 @@
   &nbsp;
 
 - **누적 막대 차트**:  📄[노트](https://www.notion.so/131df982be658046a9a7e76c04aaea55?pvs=21)
+
+- **히스토그램**:  📄[노트](https://www.notion.so/131df982be6580f7876bcd5739186753?pvs=21)
+
+- **이중축 만들기**:  📄[노트](https://www.notion.so/134df982be658002bf13d699e46914dc?pvs=21)
