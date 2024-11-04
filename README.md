@@ -1,4 +1,4 @@
-# tableau 수업 노트
+# Tableau 수업 노트
 
 <img src="태블로.jpg" width="500" height="300">
 
