@@ -23,3 +23,7 @@
 - **라운드형 막대 차트**:  📄[노트](https://www.notion.so/136df982be65800c9462ff41fc374d51?pvs=21)
 
 - **평균 라인 차트 만들기**:  📄[노트](https://www.notion.so/136df982be658040804ce794ece67d5f?pvs=21)
+
+- **계층 만들기**:  📄[노트](https://www.notion.so/137df982be6580e2bf27d100871f6ce7?pvs=21)
+
+- **지리적 역할 부여하기**:  📄[노트](https://www.notion.so/137df982be6580fb81e1ddace06bfecd?pvs=21)
