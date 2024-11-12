@@ -27,3 +27,11 @@
 - **계층 만들기**:  📄[노트](https://www.notion.so/137df982be6580e2bf27d100871f6ce7?pvs=21)
 
 - **지리적 역할 부여하기**:  📄[노트](https://www.notion.so/137df982be6580fb81e1ddace06bfecd?pvs=21)
+
+- **채워진 맵 만들기**:  📄[노트](https://www.notion.so/138df982be65802aa68ffeeed38b3681?pvs=21)
+
+- **기호맵 만들기1**:  📄[노트](https://www.notion.so/1-138df982be6580dfa38aefdcec05b3e1?pvs=21)
+
+- **기호맵 만들기2**:  📄[노트](https://www.notion.so/2-13bdf982be6580b692dae0e593f7b0a5?pvs=21)
+
+- **이중축 맵 만들기**:  📄[노트](https://www.notion.so/13bdf982be6580ee80bbcaadd72864b8?pvs=21)
