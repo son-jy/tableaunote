@@ -37,3 +37,15 @@
 - **이중축 맵 만들기**:  📄[노트](https://www.notion.so/13bdf982be6580ee80bbcaadd72864b8?pvs=21)
 
 - **그룹과 집합**:  📄[노트](https://www.notion.so/13cdf982be65807e9239ea8b5418483f?pvs=21)
+
+- **박스 그래프 만들기**:  📄[노트](https://www.notion.so/13cdf982be65803486eded1fc3d1aff7?pvs=21)
+
+- **파이 차트**:  📄[노트](https://www.notion.so/13edf982be658037ac79cebcdcd8b317?pvs=21)
+
+- **도넛 차트**:  📄[노트](https://www.notion.so/13edf982be6580439bedc37cbb91aa80?pvs=21)
+
+- **분산형 차트 만들기**:  📄[노트](https://www.notion.so/13edf982be658053b846f0bf6db1dbcc?pvs=21)
+
+- **트리맵 차트 만들기**:  📄[노트](https://www.notion.so/13edf982be6580d1ba5fcf6b6f1f96c7?pvs=21)
+
+- **하이라이트 차트 만들기**:  📄[노트](https://www.notion.so/13edf982be658056bb1ddd503d0c4087?pvs=21)
