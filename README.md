@@ -49,3 +49,11 @@
 - **트리맵 차트 만들기**:  📄[노트](https://www.notion.so/13edf982be6580d1ba5fcf6b6f1f96c7?pvs=21)
 
 - **하이라이트 차트 만들기**:  📄[노트](https://www.notion.so/13edf982be658056bb1ddd503d0c4087?pvs=21)
+
+- **두 그래프의 차이 확인**:  📄[노트](https://www.notion.so/13fdf982be65804a86f2f561a3bd7da3?pvs=21)
+
+- **두 개의 그래프 같이 출력하기**:  📄[노트](https://www.notion.so/13fdf982be65809ca272eb97fb5e9df7?pvs=21)
+
+- **라인 차트 만들기**:  📄[노트](https://www.notion.so/13fdf982be65807d95b4fe863b4b3a3b?pvs=21)
+
+- **[태블로 활용1] 챗 GPT 출시 이후 일감 수 변화(업워크)**:  📄[노트](https://www.notion.so/1-GPT-13fdf982be65803e987ff0ede795c2e8?pvs=21)
